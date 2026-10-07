@@ -5,7 +5,7 @@
 ---
 
 #### 🔭 Currently Working On
-- Last active: 2026-09-14
+- Last active: 2026-10-07
 - Exploring and reviewing the latest AI tools and platforms
 - Sharing practical AI tutorials and guides on [Dev.to](https://dev.to/lijing-big)
 - Building [awesome-ai-tools](https://github.com/Lijing-Big/awesome-ai-tools) — curated collection of AI resources
